@@ -45,6 +45,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Git" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
@@ -56,7 +57,7 @@
 <h2>
 --- BEGIN RANDOM STATS NO ONE READS ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeidant&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeidant&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Zeidant&show_icons=true&theme=tokyonight&layout=compact&border=false&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
