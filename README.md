@@ -13,7 +13,7 @@
 
 - 🎂 Birthday October 31st.
 - 👀 I’m interested in Linux
-- 👨🏽‍🔧 Fun fact **[I love being a repairman.](https://github.com/MikeNatsu)**
+- 👨🏽‍🔧 Fun fact **I love being a repairman.**
 - 👩🏽‍💻 I like learning new things everyday
 
 ### Interests
