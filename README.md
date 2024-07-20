@@ -3,6 +3,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=http://127.0.0.1/main.html)
 
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cae3c0h2nt2hvgrjyhj3cj6bs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+
 ## About me
 
 ### Im a 20-year-old guy from the Dominican Republic studying Software Development
