@@ -1,9 +1,11 @@
 # This is Zeidant
 ![Views](https://komarev.com/ghpvc/?username=Zeidant39&color=blue)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=http://127.0.0.1/main.html)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1500&pause=800&random=true&width=435&lines=http%3A%2F%2F127.0.0.1%2Fmain.html;Touch+some+grass;zeidant.xyz;Glib+jocks+quiz+nymph+to+vex+dwarf;mikenatsu.com;This+is+Zeidant's+home)](https://git.io/typing-svg)
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cae3c0h2nt2hvgrjyhj3cj6bs&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&pause=1000&width=435&lines=http://127.0.0.1/main.html)](https://git.io/typing-svg) -->
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cae3c0h2nt2hvgrjyhj3cj6bs&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## About me
 
@@ -11,7 +13,7 @@
 
 - 🎂 Birthday October 31st.
 - 👀 I’m interested in Linux
-- 👨🏽‍🔧 Fun fact **I love being a repairman.**
+- 👨🏽‍🔧 Fun fact **[I love being a repairman.](https://github.com/MikeNatsu)**
 - 👩🏽‍💻 I like learning new things everyday
 
 ### Interests
