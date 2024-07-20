@@ -10,7 +10,7 @@
 - 🎂 Birthday October 31st.
 - 👀 I’m interested in Linux
 - 👨🏽‍🔧 Fun fact **I love being a repairman.**
-- 👩🏽‍💻 I like learning new thing everyday
+- 👩🏽‍💻 I like learning new things everyday
 
 ### Interests
 - 🎮 Gaming enthusiast with a love for video games.
